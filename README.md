@@ -1,5 +1,5 @@
 
-# Maining Hash Game<br />
+# Mining Hash Game<br />
 ### Powered by Thirdweb Framework / React.
 
 ## Feel Free to Use This App Anyway
